@@ -1,0 +1,83 @@
+.content{
+    height: 0;
+    width: 850px;
+    position: relative;
+    bottom: 48rem;
+    left: 15.5rem;
+    background-color: #04AA6D;
+  
+}
+
+.heading{
+    width: 60%;
+    margin-top: 9rem;
+    font-size: 2rem;
+    margin-left: 2.2rem;
+}
+
+.home-btn{
+    position: relative;
+    left: 2.4rem;
+    height: 45px;
+    width: 98px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+
+}
+.next-btn{
+    position: relative;
+    height: 45px;
+    width: 98px;
+    left: 36rem;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+}
+.div-content{
+    height: 65vh;
+    width: 933px;
+    margin-top: 1rem;
+    background-color: #D9EEE1;
+    padding-top: 2rem;
+    padding-left: 4rem;
+    overflow: auto;
+
+}
+.contenet-paragraph{
+    font-size: 20px
+}
+.ad-one{
+    /* background-image: url(./images/ad_top.png); */
+    width: 728px;
+    height: 90px;
+    position: relative;
+    top: 9rem;
+    left: 4.8rem;
+ 
+}
+.ad-two{
+    height:610px;
+    width: 160px;
+    /* background-image:url(./images/ad_two.png); */
+    position: relative;
+    bottom: 38rem;
+    left: 58.2rem;
+
+}
+/* .study-btn{
+    width: 283px;
+    height: 43px;
+  
+    
+    margin-top: 2.5rem;
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+    font-size: 18px;
+    border-radius: 8px;
+} */

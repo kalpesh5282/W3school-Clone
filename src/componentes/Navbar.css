@@ -1,0 +1,182 @@
+
+
+.navbar{
+    height: 90px;
+    width: 100vw;
+
+   
+}
+.first-nav{
+    height: 56px;
+    width: 100vw;
+    display: flex;
+
+}
+.logo{
+    height: 55px;
+    width: 100px;
+    margin-left: 10px;
+    background-image: url(./images/w3schools-logo.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.nav-item-div{
+    height: 60px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.nav-item-div:hover{
+    background-color: #04AA6D;
+    color: white;
+    height: 56px;
+    cursor: pointer;
+}
+/* .nav-item-div:hover{
+    background-color: #04AA6D;
+    color: white;
+
+} */
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.search input{
+    height: 40px;
+    width: 175px;
+    border-radius: 30px;
+    margin-left: 2rem;
+    padding-left: 1rem;
+    border: .5px solid #101111;
+}
+
+.material-symbols-outlined {
+    width: 100%;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  position: relative;
+  margin-left: -2rem;
+  /* right: 2rem; */
+}
+.dark-moode{
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4rem;
+    cursor: pointer;
+   
+}
+.goal{
+   
+    color:#9763F6;
+    position: relative;
+    right: -2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: .5rem;
+    
+    width:108px;
+    height: 40px;
+    border-radius: 25px;
+  
+}
+#icons{
+    position: relative;
+    left: 2.2rem;
+}
+
+.goal-content{
+    position: relative;
+    width: 10rem;
+    left: 7px;
+    color: #101111;
+}
+.goal:hover{
+    background-color: #E7E9EB;
+}
+.code{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width:7.5rem;
+    right:-2rem;
+    height: 40px;
+    top: 9px;
+    border-radius: 25px;
+   
+}
+.spaces{
+    margin-right: 20px;
+}
+#code-icon{
+    position: relative;
+    left: 3rem;
+    color: #9763F6;
+}
+.code:hover{
+    background-color: #E7E9EB;
+}
+.sign ,.login{
+    height: 2rem;
+    width: 5.4rem;
+    position: relative;
+    top: 13px;
+    left: 2rem;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.sign{
+    background-color: #04AA6D;
+    color: white;
+    z-index: 1;
+    left: 2.5rem;
+}
+.login{
+    position: absolute;
+    left: 78rem;
+    background-color: #D9EEE1;
+}
+.login:hover{
+    color: white;
+    background-color: #04AA6D;
+}
+.second-nav{
+    height: 32px;
+    width: 99vw;
+    display: flex;
+    background-color: #282A35;
+}
+.inner{
+    height: 32px;
+    width: 82px;
+
+    color: white;
+    display: flex;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+}
+.inner:hover{
+    background-color: #101111;
+}
+.inner1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85px;
+    color: white;
+    background-color: #04AA6D;
+}

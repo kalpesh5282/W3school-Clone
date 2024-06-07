@@ -1,0 +1,44 @@
+.main-block{
+    display: block;
+}
+
+.contenet-head{
+    font-size: 30px;
+}
+.list{
+    width: 95%;
+    margin-top: 1rem;
+}
+.list li{
+    font-size: 18px;
+}
+.code-part{
+    height: 500px;
+    width: 100%;
+    /* background-color: blue; */
+    z-index: 1;
+}
+.div-code{
+    width: 80%;
+    background-color:#feffff;
+    margin-top: 4rem;
+}
+.code-content{
+    margin-top: 3rem;
+    font-size: 25px;
+}
+.studybtn{
+    width: 283px;
+    height: 43px;
+   position: relative;
+   bottom: 2rem;
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+    font-size: 18px;
+    border-radius: 8px;
+}
+.explain{
+    margin-top: 3rem;
+    padding-bottom: 2rem;
+}

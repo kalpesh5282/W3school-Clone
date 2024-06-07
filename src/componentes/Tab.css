@@ -1,0 +1,13 @@
+.tab-item-div{
+    height: 40px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+.tab-item-div:hover{
+    background-color:#04AA6D ;
+    color: aliceblue;
+}

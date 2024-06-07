@@ -1,0 +1,23 @@
+.saidebar{
+    height: 630px;
+    width: 250px;
+    background-color:#E7E9EB;
+    overflow: auto;
+    cursor: pointer;
+
+  
+    
+}
+.sidebar-item-div{
+    height: 40px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+.sidebar-item-div:hover{
+    background-color:#04AA6D ;
+    color: aliceblue;
+}
